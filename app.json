@@ -33,7 +33,7 @@
           "imageWidth": 76
         }
       ],
-      [ "expo-fonts", {"fonts": [
+      [ "expo-font", {"fonts": [
         "./assets/fonts/PlusJarkartaSans-Regular.ttf",
         "./assets/fonts/PlusJarkartaSans-Bold.ttf",
         "./assets/fonts/PlusJarkartaSans-SemiBold.ttf",
