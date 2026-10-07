@@ -6,6 +6,7 @@ const SignIn = () => {
         <View>
             <Text>SignIn</Text>
             <Link href={"/(auth)/sign-up"} className="mt-4 rounded bg-primary text-white p-4" >Create an Account</Link>
+            <Link href={"/(tabs)"} className="mt-4 rounded bg-primary text-white p-4" >Home</Link>
         </View>
     )
 }
